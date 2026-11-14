@@ -1,4 +1,4 @@
-<img width="696" height="359" alt="image" src="https://github.com/user-attachments/assets/24fbf455-245c-4656-9477-5fc009cd202e" /># PENETRATION-TESTING-REPORT-2-MALTEGO-GHDB-
+# PENETRATION-TESTING-REPORT-2-MALTEGO-GHDB-
 PENETRATION TESTING REPORT
 PENETRATION TESTING REPORT
 FOOTPRINTING & INFORMATION GATHERING PHASE
@@ -6,7 +6,6 @@ W2-PM-FINAL | CYBERSECURITY | NETWORKWALKS
 Report Details	Information
 Pentester Name (Cybersecurity Professional)	Ibrahim Abimbola Bello
 Program/Batch	B084-Networkwalks
-Date	[Insert Date]
 Modules Completed	Footprinting with GHDB; Footprinting with Maltego
 Client/Target	Networkwalks (authorized educational target)
 Permission secured from client?	Yes – within the authorized lab scope
